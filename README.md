@@ -115,4 +115,4 @@ Use this [web-compiler](https://www.programiz.com/cpp-programming/online-compile
 
 This image shows a very surprised cat sitting at a laptop. It reminds me of how I feel when my code finally works (or doesn't), so it always makes me smile.
 
-![Cat at a laptop](images/Без названия (1).jpeg)
+![Cat at a laptop](<images/Без названия (1).jpeg>)
