@@ -113,6 +113,6 @@ Use this [web-compiler](https://www.programiz.com/cpp-programming/online-compile
 
 ## The image I like
 
-Here is the image I personally like: it represents a place that I like to visit and that makes me feel better.
+This image shows a very surprised cat sitting at a laptop. It reminds me of how I feel when my code finally works (or doesn't), so it always makes me smile.
 
-![My image](images/photo.jpg)
+![Cat at a laptop](images/photo.jpg)
